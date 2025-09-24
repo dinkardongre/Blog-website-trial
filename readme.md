@@ -57,4 +57,8 @@ Authorization: Bearer <token>
 
 ## Contributing
 
+<<<<<<< HEAD
 Feel free to submit issues or pull requests for enhancements or bug fixes.
+=======
+Feel free to submit issues or pull requests for enhancements or bug fixes.
+>>>>>>> 2f6683f0876107e6c88773fd0dc5275e26077e83
