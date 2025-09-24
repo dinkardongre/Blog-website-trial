@@ -20,8 +20,6 @@ This component provides backend APIs for managing user blogs including creation,
 python -m venv env
 source venv/bin/activate # On Windows: venv\Scripts\activate
 
-text
-
 3. Install dependencies:
 
 pip install fastapi sqlalchemy uvicorn pydantic passlib PyJWT
